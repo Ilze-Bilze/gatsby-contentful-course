@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-contentful-page-slug-js",
+    "path": "/home/",
+    "result": {"data":{"contentfulPage":{"id":"3b91f658-4686-5c9b-bfc9-6a98865fe3ed","title":"Home","description":"Homepage"}},"pageContext":{"id":"3b91f658-4686-5c9b-bfc9-6a98865fe3ed","slug":"home","__params":{"slug":"home"}}},
+    "staticQueryHashes": ["63159454"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-contentful-page-slug-js",
+    "path": "/about-us/",
+    "result": {"data":{"contentfulPage":{"id":"e1fe20b6-f196-526f-a933-d24d1cb04b6b","title":"About us","description":"About us","pageContent":{"raw":"{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"heading-1\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"About us\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \",\"marks\":[],\"data\":{}}]}]}"}}},"pageContext":{"id":"e1fe20b6-f196-526f-a933-d24d1cb04b6b","slug":"about-us","__params":{"slug":"about-us"}}},
+    "staticQueryHashes": ["2520728245","63159454"]}
