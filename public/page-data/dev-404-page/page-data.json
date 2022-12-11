@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---cache-dev-404-page-js",
     "path": "/dev-404-page/",
-    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/404.html"},{"path":"/404/"},{"path":"/"},{"path":"/image-editing-features/"},{"path":"/image-editing-getting-started/"},{"path":"/video-editing-getting-started/"},{"path":"/video-editing-features/"},{"path":"/about-us/"}]}},"pageContext":{}},
+    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/blog/spain"},{"path":"/blog/italy"},{"path":"/blog/portugal"},{"path":"/blog/austria"},{"path":"/blog/latvia"},{"path":"/blog"},{"path":"/blog/2"},{"path":"/blog/3"},{"path":"/404.html"},{"path":"/404/"},{"path":"/about-us/"},{"path":"/"},{"path":"/image-editing-features/"},{"path":"/image-editing-getting-started/"},{"path":"/video-editing-getting-started/"},{"path":"/video-editing-features/"}]}},"pageContext":{}},
     "staticQueryHashes": []}

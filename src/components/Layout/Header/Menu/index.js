@@ -9,7 +9,12 @@ const Menu = () => {
       id
       label
       page {
-        slug
+        ...on ContentfulPage {
+          slug
+        }
+        ...on ContentfulBlog {
+          slug
+        }
       }
     }
     
@@ -45,6 +50,9 @@ const Menu = () => {
           )}
         </MenuItem>
       ))}
+      <MenuItem>
+        <Link to="/contact">Contact</Link>
+      </MenuItem>
     </MenuWrapper>
   );
 }

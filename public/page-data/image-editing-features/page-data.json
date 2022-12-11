@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-contentful-page-slug-js",
     "path": "/image-editing-features/",
-    "result": {"data":{"contentfulPage":{"id":"b6d86b99-ebec-5639-a6fb-c7517eaa27a6","title":"Image editing features","description":"Image editing features","pageContent":{"raw":"{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"heading-1\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Image editing features\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}"}}},"pageContext":{"id":"b6d86b99-ebec-5639-a6fb-c7517eaa27a6","slug":"image-editing-features","__params":{"slug":"image-editing-features"}}},
-    "staticQueryHashes": ["2520728245","63159454"]}
+    "result": {"data":{"contentfulPage":{"id":"b6d86b99-ebec-5639-a6fb-c7517eaa27a6","title":"Image editing features","description":"Image editing features","pageContent":{"raw":"{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"heading-1\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Image editing features\",\"marks\":[],\"data\":{}}]},{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"\",\"marks\":[],\"data\":{}}]}]}","references":[]}}},"pageContext":{"id":"b6d86b99-ebec-5639-a6fb-c7517eaa27a6","slug":"image-editing-features","__params":{"slug":"image-editing-features"}}},
+    "staticQueryHashes": ["208999329","63159454"]}
